@@ -1,0 +1,6 @@
+{
+    "displayName": "RandomMonsterSpawner",
+    "type": "Spawner",
+    "mode": "Random",
+    "objects": "Monsters"
+}

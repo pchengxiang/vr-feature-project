@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LocalTests
+  m_EditorClassIdentifier: 
+  m_GroupName: LocalTests
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4e21e95eea142b64d89a9a60cfb8e1aa
+  m_SerializeEntries:
+  - m_GUID: 0666f9e1d11dc7f43b6b20c235926486
+    m_Address: Assets/Prefabs/Dungeon/Map/christmasRoom.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f7d2d2e4ee671f4f9955a3556b71ada
+    m_Address: Assets/Prefabs/Dungeon/Map/CanyonRocks.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ae4e242fcf59a94ab2c414e05c9fec7
+    m_Address: Assets/Prefabs/Dungeon/Map/Forest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 380eb637b885b684298c58e98a4734b8
+    m_Address: Assets/Prefabs/Dungeon/Map/Church.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5d495ce811fc504f9723ff311426b07
+    m_Address: Assets/Prefabs/Dungeon/Map/Evil.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfe1beedf4100504e8881758dbd4a3a1
+    m_Address: Assets/Prefabs/Dungeon/Map/KungFu.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1098031aadc0e5c438aca5f3c9d8ab33
+    m_Address: Assets/Prefabs/Dungeon/Map/PlayGround.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84ec663dd9e44894ea3c24285a9d1b96
+    m_Address: Assets/Prefabs/Dungeon/Map/Wasteland.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f89e1ad3548c7f5408ebd6b5c2d2b460, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5fe04984d997c95438b880e4c7c074d9, type: 2}
+    - {fileID: 11400000, guid: 1e92bd6c535d9c84d90b44d6dbc89093, type: 2}

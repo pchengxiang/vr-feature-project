@@ -1,0 +1,67 @@
+{
+    "modules": [
+        {
+            "name": "Card",
+            "path": "/Card",
+            "include": [
+                "Cards.json"
+            ]
+        },
+        {
+            "name": "Command",
+            "path": "/Command",
+            "include": [
+                "Attack.json"
+            ]
+        },
+        {
+            "name": "Conversation",
+            "path": "/Conversation",
+            "include": [
+                "Conversations.json"
+            ]
+        },
+        {
+            "name": "Deck",
+            "path": "/Deck",
+            "include": [
+                "Decks.json"
+            ]
+        },
+        {
+            "name": "Item",
+            "path": "/Item",
+            "include": [
+                "Items.json"
+            ]
+        },
+        {
+            "name": "Level",
+            "path": "/Level",
+            "include": [
+                "Base.json"
+            ]
+        },
+        {
+            "name": "Monster",
+            "path": "/Monster",
+            "include": [
+                "Monsters.json"
+            ]
+        },
+        {
+            "name": "PlayerSetting",
+            "path": "/PlayerSetting",
+            "include": [
+                "beginning.json"
+            ]
+        },
+        {
+            "name": "Room",
+            "path": "/Room",
+            "include": [
+                "MonsterRoom.json"
+            ]
+        }
+    ]
+}

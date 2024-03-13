@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "2237444219",
+    "firebase_url": "https://featureproject-aa73c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "featureproject-aa73c",
+    "storage_bucket": "featureproject-aa73c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2237444219:android:ca73d5d060e9cfffbe32de",
+        "android_client_info": {
+          "package_name": "com.Test.TestProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2237444219-vgsssm2srkl35ssuc75ks6nq6koj4te3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4PXrktnAW76G0EGUmpkYNfnddobYwBMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2237444219-0mc55vnuvi6npv1fpsa5iqocufbva0nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2237444219:android:ceafa74392730a64be32de",
+        "android_client_info": {
+          "package_name": "com.unity.xr.ReguelikeGameDev.FeatureProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2237444219-vgsssm2srkl35ssuc75ks6nq6koj4te3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4PXrktnAW76G0EGUmpkYNfnddobYwBMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2237444219-0mc55vnuvi6npv1fpsa5iqocufbva0nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

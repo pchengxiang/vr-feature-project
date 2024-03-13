@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Slime Colony",
+        "type": 0,
+        "generate": [
+            {
+                "name": "Slime",
+                "cardinal_amount": 3
+            }
+        ],
+        "rarity": "Normal"
+    },
+    {
+        "name": "Rabbit Hole",
+        "type": 0,
+        "generate": [
+            {
+                "name": "Rabbit",
+                "cardinal_amount": 3
+            }
+        ],
+        "rarity": "Normal"
+    },
+    {
+        "name": "Monster Raid",
+        "type": 0,
+        "generate": [
+            {
+                "name": "Slime",
+                "cardinal_amount": 1
+            },
+            {
+                "name": "Rabbit",
+                "cardinal_amount": 1
+            },{
+                "name": "Bat",
+                "cardinal_amount": 1
+            }
+        ],
+        "rarity": "Rare"
+    },
+    {
+        "name": "Sparrow Shop",
+        "type": 1,
+        "generate": [
+            {
+                "name": "Merchant",
+                "cardinal_amount": 1
+            }
+        ],
+        "rarity": "Normal"
+    },
+    {
+        "name": "Waiting",
+        "type": 2,
+        "generate": [
+            {
+                "name": "Timer",
+                "cardinal_amount": 10
+            }
+        ],
+        "rarity": "Rare"
+    }
+]

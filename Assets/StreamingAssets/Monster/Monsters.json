@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Slime",
+        "hp": 4,
+        "baseDamage": 1,
+        "description": "Oh!There is a slime, could I keep it?"
+    },
+    {
+        "name": "Bat",
+        "hp": 10,
+        "baseDamage": 2,
+        "description": "I just a innocent bat.Don't attack me!"
+    },
+    {
+        "name": "Rabbit",
+        "hp": 10,
+        "baseDamage": 2,
+        "description": ""
+    },
+    {
+        "name": "TokenSlime",
+        "hp": 1,
+        "baseDamage": 1,
+        "description": "Just a minion..."
+    },
+    {
+        "name": "DummySlime",
+        "hp": 1000000000,
+        "baseDamage": 0,
+        "description": "Just a punch bag"
+    },
+    {
+        "name": "Dragon",
+        "hp": 50,
+        "baseDamage": 5,
+        "description": "Run!!"
+    }
+]

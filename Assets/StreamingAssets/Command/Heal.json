@@ -1,0 +1,8 @@
+{
+    "description": "cause {damage} damage to {object}.",
+    "objected": true,
+    "timeliness": "immediately",
+    "launch mode": "range",
+    "range": "short",
+    "conditions": []
+}

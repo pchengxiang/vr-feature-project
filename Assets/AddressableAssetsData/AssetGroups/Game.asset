@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  m_GroupName: Game
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 38499b1022549ee499159d8846845658
+  m_SerializeEntries:
+  - m_GUID: e0b97c3a049fed04f99d5ee8e84a8cee
+    m_Address: Assets/Prefabs/Dungeon/Monster_Prefab/Rabbit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4dcc0ff2d85dd543936b9b211628a9b
+    m_Address: Assets/Prefabs/Dungeon/businessman.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ecf4d5f61693fa4a855c23af793b049
+    m_Address: Assets/Prefabs/Dungeon/Monster_Prefab/Slime.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc0af6642b9b797469dc94bfd07ef1b0
+    m_Address: Assets/Prefabs/Dungeon/Monster_Prefab/TokenSlime.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - map
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f89e1ad3548c7f5408ebd6b5c2d2b460, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f4ebc05381e65834e97b49d10ead4751, type: 2}
+    - {fileID: 11400000, guid: c69f0b8f922c55647a9fdc430fb6e610, type: 2}

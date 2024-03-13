@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "ref": "Sword",
+            "count": 1
+        },
+        {
+            "ref": "Cards/Pebble",
+            "count": 3
+        }
+    ]
+}

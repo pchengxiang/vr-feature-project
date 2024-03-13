@@ -1,0 +1,136 @@
+[
+    {
+        "name": "Throwing Pebble",
+        "description": "If you miss, I won't laugh...hahaha.",
+        "costtime": 1,
+        "commands": [
+            {
+                "item": "Attack",
+                "prefab": "Pebble",
+                "timing": 0,
+                "utility": 1,
+                "durability": 1
+            }
+        ]
+    },
+    {
+        "name": "Slash",
+        "description": "How much damage can a sword that looks like it can be seen everywhere do when it is swung down?",
+        "costtime": 1,
+        "commands": [
+            {
+                "item": "Attack",
+                "prefab": "Sword",
+                "timing": 0,
+                "utility": 5,
+                "durability": 1
+            }
+        ]
+    },
+    {
+        "name": "Merchant Shield",
+        "description": "What?! You actually used the merchant as a shield? And he drops coins when he dies? Where can I find him? I want to borrow him and play too!",
+        "costtime": 5,
+        "commands": [
+            {
+                "item": "Defend",
+                "prefab": "Merchant",
+                "timing": 0,
+                "utility": 5,
+                "durability": 2
+            },
+            {
+                "item": "Relic",
+                "prefab": "Coin",
+                "timing": 0,
+                "utility": "Coin",
+                "durability": 1
+            }
+        ]
+    },
+    {
+        "name": "Coin",
+        "description": "Use that move on me! I don't mind.",
+        "costtime": 1,
+        "commands": [
+            {
+                "item": "Attack",
+                "prefab": "Coin",
+                "timing": 0,
+                "utility": 2,
+                "durability": 1
+            }
+        ]
+    },
+    {
+        "name": "西洋劍 I",
+        "description": "刺擊一名敵人一次",
+        "costtime": 1,
+        "commands": [
+            {
+                "item": "Attack",
+                "prefab": "Rapier",
+                "timing": 0,
+                "utility": 3,
+                "durability": 1
+            }
+        ]
+    },
+    {
+        "name": "西洋劍 II",
+        "description": "刺擊一名敵人兩次",
+        "costtime": 2,
+        "commands": [
+            {
+                "item": "Attack",
+                "prefab": "Rapier",
+                "timing": 0,
+                "utility": 4,
+                "durability": 2
+            }
+        ]
+    },
+    {
+        "name": "集中",
+        "description": "在此輪中,基礎攻擊力加1",
+        "costtime": 1,
+        "commands": [
+            {
+                "item": "Buff",
+                "type": "Damage",
+                "prefab": "Focus",
+                "timing": 0,
+                "utility": 1,
+                "durability": 1
+            }
+        ]
+    },
+    {
+        "name": "步槍",
+        "description": "熟悉的款式,熟悉的滋味.\n擁有三十發子彈,沒有備用彈夾.",
+        "costtime": 5,
+        "commands": [
+            {
+                "item": "Attack",
+                "prefab": "Rifle",
+                "timing": 0,
+                "utility": 1,
+                "durability": 30
+            }
+        ]
+    },
+    {
+        "name": "火球",
+        "description": "這顆球被炒了!!!\n直線丟出火球,命中敵人時給予傷害.",
+        "costtime": 3,
+        "commands": [
+            {
+                "item": "Spell",
+                "prefab": "Fireball",
+                "timing": 0,
+                "utility": 8,
+                "durability": 1
+            }
+        ]
+    }
+]
