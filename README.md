@@ -11,6 +11,6 @@
 本遊戲客群為對虛擬實境、卡牌遊戲有興趣之廣大群眾，下載遊戲後，能夠作為玩家登入系統，進入遊玩場景並闖關。
 
 ![image](https://github.com/pchengxiang/vr-feature-project/blob/main/%E7%B5%90%E6%A7%8B%E5%9C%96.png)
-所需的系統架構：雲端系統（資料庫、登入驗證系統）、遊戲主
+所需的系統架構：雲端系統（資料庫、登入驗證系統）、遊戲主體。
 ## 學習成果
 在這一個專案中，我透過自學學到Firebase與unity的串接、unity的C#腳本編寫、基本的場景運作機制設計、VR軟體開發等等，並且與夥伴寫出ERDiagram、Use case diagram等重要設計圖表，總體收益良多。
